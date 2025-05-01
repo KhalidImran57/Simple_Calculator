@@ -13,8 +13,8 @@ This is a basic and clean **Calculator App** developed using **Flutter**. It per
 
 <!-- Replace these URLs after uploading your images to GitHub -->
 <p align="center">
-  <img src="https://github.com/KhalidImran57/Simple_Calculator/blob/main/1.PNG?raw=true" alt="Screenshot 1" height="500" style="margin-right: 15px;" />
-  <img src="https://github.com/KhalidImran57/Simple_Calculator/blob/main/2.PNG?raw=true" alt="Screenshot 2" height="500" style="margin-right: 15px;" />
+  <img src="https://github.com/KhalidImran57/Simple_Calculator/blob/main/1.PNG?raw=true" alt="Screenshot 1" height="500" style="margin-right: 30px;" />
+  <img src="https://github.com/KhalidImran57/Simple_Calculator/blob/main/2.PNG?raw=true" alt="Screenshot 2" height="500" style="margin-right: 30px;" />
   <img src="https://github.com/KhalidImran57/Simple_Calculator/blob/main/3.PNG?raw=true" alt="Screenshot 3" height="500" />
 </p>
 
