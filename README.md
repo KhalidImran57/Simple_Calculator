@@ -13,6 +13,10 @@ This is a basic and clean **Calculator App** developed using **Flutter**. It per
 
 <!-- Replace these URLs after uploading your images to GitHub -->
 ![image alt](https://github.com/KhalidImran57/Simple_Calculator/blob/main/1.PNG?raw=true)
+![image alt](https://github.com/KhalidImran57/Simple_Calculator/blob/main/2.PNG?raw=true)
+![image alt](https://github.com/KhalidImran57/Simple_Calculator/blob/main/3.PNG?raw=true)
+
+
 
 ## 🛠️ Tech Stack
 
